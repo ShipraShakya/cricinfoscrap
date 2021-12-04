@@ -1,12 +1,22 @@
 # cricinfoscrap
+
 Cricket Website Scrapping
+
 I wrote a script using axios, jsdom, excel4node and pdf-lib which scraps WorldCup 2019 scorecards from cricinfo and stores that in excel sheets and pdf form. The purpose of writing this script was to get familiar with using npm modules, promises in JavaScript, learn how to extract information and get experience with js, A very good reason to ever make a project is to have good fun.
+
 
 I created a excel file using excel4node, where pages are divided acoording to team's name, and containing that team's match information.
 Created a PDF file using pdf-lib library, having team name, opponent,score and result.
-To create the PDF file template used is: ![image](https://user-images.githubusercontent.com/85759615/144708258-65de861a-2e13-40ed-90f0-df81a188feed.png)
+To create the PDF file template used is: 
+![image](https://user-images.githubusercontent.com/85759615/144708258-65de861a-2e13-40ed-90f0-df81a188feed.png)
+
 
 Then after running the given command below the output will be:
+![image](https://user-images.githubusercontent.com/85759615/144708314-cc6d35a3-b150-4d6f-ad1e-b2fd65b78a6d.png)
+
+
+Output of excel file is:
+![image](https://user-images.githubusercontent.com/85759615/144708363-370df5af-c2d3-4b99-a7ba-f2b55f1a634d.png)
 
 
 # How to do this activty in your system:
