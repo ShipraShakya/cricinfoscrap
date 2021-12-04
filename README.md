@@ -4,7 +4,10 @@ I wrote a script using axios, jsdom, excel4node and pdf-lib which scraps WorldCu
 
 I created a excel file using excel4node, where pages are divided acoording to team's name, and containing that team's match information.
 Created a PDF file using pdf-lib library, having team name, opponent,score and result.
-To create the PDF file template used is: 
+To create the PDF file template used is: ![image](https://user-images.githubusercontent.com/85759615/144708258-65de861a-2e13-40ed-90f0-df81a188feed.png)
+
+Then after running the given command below the output will be:
+
 
 # How to do this activty in your system:
 1. create a folder and run command npm init -y in the terminal, the terminal location must be of that folder.
